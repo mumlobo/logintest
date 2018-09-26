@@ -4,4 +4,5 @@ import sys
 print("hello word")
 
 print(sys.argv)
+print("hell git")
 
